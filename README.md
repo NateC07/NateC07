@@ -1,4 +1,5 @@
 <h1>Hi, I'm Nathan!<br/></h1>
+<p>Class of 2026.</p>
 <p>Computer science is my thing. The programming languages I currently know: </p>
 <ul>
   <li>Java</li>
